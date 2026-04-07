@@ -7,3 +7,5 @@ def test_practise():
     driver.get("https://www.qa-practice.com/")
     
     driver.quit()
+
+print("newline")
