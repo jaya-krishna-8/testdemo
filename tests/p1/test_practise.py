@@ -11,3 +11,4 @@ def test_practise():
 print("newline")
 
 print("new branch")
+print("merge")
